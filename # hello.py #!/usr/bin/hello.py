@@ -1,0 +1,3 @@
+# hello.py
+#!/usr/bin/env python3
+print("Hello, DevOps!")
