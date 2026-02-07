@@ -1,7 +1,7 @@
 # DevOps Intern Final Assessment
 
-**Name:** [Your Name]  
-**Date:** [Current Date]  
+**Name:** [shivani raj]  
+**Date:** [8 2 2026]  
 ![CI Status](https://github.com/Shivani-4976/devops-intern-final/actions/workflows/ci.yml/badge.svg)
 
 ## Project Overview
