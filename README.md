@@ -2,7 +2,7 @@
 
 **Name:** [Your Name]  
 **Date:** [Current Date]  
-![CI Status](https://github.com/[your-username]/devops-intern-final/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/Shivani-4976/devops-intern-final/actions/workflows/ci.yml/badge.svg)
 
 ## Project Overview
 This project demonstrates a complete DevOps workflow using open-source tools:
